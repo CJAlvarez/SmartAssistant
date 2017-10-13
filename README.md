@@ -1,2 +1,2 @@
 # SmartAssistant
-Un proyecto de desarrollo de asistente utilizando tecnología básica.
+Un proyecto de desarrollo, prototipo de asistente utilizando tecnología básica
